@@ -1,5 +1,7 @@
 # ENG3695Proj2
 
+[Go To ENG3695Proj2 section](#Heading-3)
+
 This is a manual of something, I'm not sure what just yet.
 something
 something
