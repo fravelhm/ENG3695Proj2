@@ -5,7 +5,7 @@
 This is a manual of something, I'm not sure what just yet.
 something
 something
-Text 
+<br />
 
 something
 something
