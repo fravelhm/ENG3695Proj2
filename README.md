@@ -24,7 +24,13 @@ something
 something
 something
 
-
+---
+**NOTE**
+Hello.
+How are you?
+This is just a minor test
+other words
+---
 
 # Heading-1
 This is my first part
