@@ -12,7 +12,9 @@
 
 ## Introduction
 The 2018 Honda CR-V is on of the top picks for compact SUV rankings and is 5th in the most common car amoungst American's.  This car has quality cabin materials, lots of seating and seating space, great cargo space, great safety score, great handling, and a capable engine.\
+\
 **Features** 
+---
 - 5 seats
 - 21-28 mpg in the city
 - 31-34 mpg on highway
@@ -32,15 +34,15 @@ Buy, own, or have access to a 2018 Honda CR-V.
 * [Dash](#Dash)
 
 ### Starting the Engine
-Step 1. Put the ignition key into the ignition slot.\
-Step 2. Turn the key to the third position and hold for a second.\
-Step 3. Let the key go back into position two.\
+1. Put the ignition key into the ignition slot.
+2. Turn the key to the third position and hold for a second.
+3. Let the key go back into position two.
 
-#### Center Console
+### Center Console
 
-#### Steering Wheel
+### Steering Wheel
 
-#### Dash
+### Dash
 
 ##  FAQ
 
