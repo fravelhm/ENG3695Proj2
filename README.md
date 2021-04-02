@@ -1,6 +1,6 @@
 # ENG3695Proj2
 
-[Introduction](# Introduction)
+[Introduction](#Introduction)
 
 ## Introduction
 
