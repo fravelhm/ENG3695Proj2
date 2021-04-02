@@ -1,25 +1,21 @@
-# ENG3695Proj2
+# Honda CR-V 2018 Manual
 
 - [Introduction](#Introduction)
 - [Description](#Description)
-- [Code](#Code)
 - [Installation](#Installation)
-- [Code Example](#Code-Example)
+- [Instructions](#Instructions)
 - [FAQ](#FAQ)
 - [Troubleshooting](#Troubleshooting)
 - [Contribution](#Contribution)
 - [License](#License)
-- [Instructions](#Instructions)
 
 ## Introduction
 
 ## Description
 
-## Code
-
 ## Installation
 
-## Code Example
+## Instructions
 
 ##  FAQ
 
@@ -28,5 +24,3 @@
 ## Contribution
 
 ## License
-
-## Instructions
