@@ -38,21 +38,57 @@ Buy, own, or have access to a 2018 Honda CR-V.
 3. Let the key go back into position two.
 
 ### Center Console
-Sun/Moon: Changes brightness setting
-Radio: Changes The center display to the radio
-Media: Switches between medias: bluetooth, ipod, and radio
-Vol/Power knob: Rotate clockwise/counter-clockwise to increase/decrease volume repectively.  Push to turn the center display on/off
-Left Arrow: Changes radio station or changes song on bluetooth or ipod device.
-Right Arrow: Changes radio station or changes song on bluetooth or ipod device.
-AC Knob: Rotate knob clockwise/counter-clockwise to decrease/increase AC temperature.  Push to change AC to auto mode.
-First 
+Sun/Moon: Changes brightness setting.\
+Radio: Changes The center display to the radio.\
+Media: Switches between medias: bluetooth, ipod, and radio.\
+Vol/Power knob: Rotate clockwise/counter-clockwise to increase/decrease volume repectively.  Push to turn the center display on/off.\
+Left Arrow: Changes radio station or changes song on bluetooth or ipod device.\
+Right Arrow: Changes radio station or changes song on bluetooth or ipod device.\
+AC Knob: Rotate knob clockwise/counter-clockwise to decrease/increase AC temperature.  Push to change AC to auto mode.\
+Phone: IDK.\
+Music Note: IDK.\
+List/Slect: IDK.\
+Back: IDK.\
+Menu: IDK.\
+-Lower Panel\
+1st: Circulate air.\
+2nd: Bring in new air.\
+3rd: Activate front windshield heaters.\
+4th: Activate rear windshield heaters.\
+5th: Change where the air is coming out.\
+6th: Turn AC on/off.\
+((P)): Activate parking break.\
+Brake Hold: IDK.\
+Econ: Turn on/off fuel efficient thing.\
 
 ### Steering Wheel
+-Right side\
+Cruise: Turn on/off cruise control.\
+Cancel: When cruise control is on, disables/enables cruise control.\
+Res/+: If cruise control is off do nothing. If cruise control is on and if cruise control is enabled then increase speed, else reset to last set speed.\
+Set/-: If cruise control is off do nothing. If cruise control is on and if cruise control is enabled then decrease speed, else set to current speed.\
+-Left Side\
++: Increase Volume.\
+-: Decrease Volume.\
+Left Arrow: Same as left arrow on center console.\
+Right Arrow: Same as right arrow on center console.\
+Source: IDK.\
+Phone: IDK.\
+Phone2: IDK.\
+Speaking: IDK.\
+-Middle\
+Push the middle of the steering wheel to honk.\
 
 ### Dash
+-Left: Oil?\
+Shows your oil life?\
+-Middle: Speedometer\
+Shows the speed and the rpms.\
+-Right: Fuel Gage\
+Shows you how much fuel you have.
 
 ##  FAQ
-- Does this manual work for any other car?
+- Does this manual work for any other car?\
 This definetly does not work for any other car.  Some parts may be similar but it would be best to view the right manual for the right car.
 - Does this manual work for a different year Honda CR-V?\
 Maybe, but it would be best to view the right maual for the car as some parts in a newer/older model may be moved around
