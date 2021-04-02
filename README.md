@@ -38,20 +38,21 @@ Buy, own, or have access to a 2018 Honda CR-V.
 3. Let the key go back into position two.
 
 ### Center Console
-#### Top Panel\
-**Sun/Moon**: Changes brightness setting.\
+#### Top Panel
+**Hazard**: Press to turn hazards on/off.\
+**Sun/Moon**: Changes brightness setting, either day or night mode.\
 **Radio**: Changes The center display to the radio.\
 **Media**: Switches between medias: bluetooth, ipod, and radio.\
 **Vol/Power knob**: Rotate clockwise/counter-clockwise to increase/decrease volume repectively.  Push to turn the center display on/off.\
 **Left Arrow**: Changes radio station or changes song on bluetooth or ipod device.\
 **Right Arrow**: Changes radio station or changes song on bluetooth or ipod device.\
 **AC Knob**: Rotate knob clockwise/counter-clockwise to decrease/increase AC temperature.  Push to change AC to auto mode.\
-**Phone**: IDK.\
-**Music Note**: IDK.\
-**List/Slect**: IDK.\
-**Back**: IDK.\
-**Menu**: IDK.\
-#### Lower Panel\
+**Phone**: Accepts/declines phone call.\
+**Music Note**: Press to select the sound setting mode.\
+**List/Slect**: Rotate clockwise/counter-clockwise to scroll through choices.  Push to set your selection\
+**Back**: Used on menus to go back.\
+**Menu**: Opens the menu where you can change settings or the time on your clock.
+#### Lower Panel
 **1st**: Circulate air.\
 **2nd**: Bring in new air.\
 **3rd**: Activate front windshield heaters.\
@@ -59,33 +60,33 @@ Buy, own, or have access to a 2018 Honda CR-V.
 **5th**: Change where the air is coming out.\
 **6th**: Turn AC on/off.\
 **((P))**: Activate parking break.\
-**Brake Hold**: IDK.\
-**Econ**: Turn on/off fuel efficient thing.\
+**Brake Hold**: Turns on/off automatic break hold system.\
+**Econ**: Turn on/off fuel efficient mode.
 
 ### Steering Wheel
-#### Right side\
+#### Right side
 **Cruise**: Turn on/off cruise control.\
 **Cancel**: When cruise control is on, disables/enables cruise control.\
 **Res/+**: If cruise control is off do nothing. If cruise control is on and if cruise control is enabled then increase speed, else reset to last set speed.\
-**Set/-**: If cruise control is off do nothing. If cruise control is on and if cruise control is enabled then decrease speed, else set to current speed.\
-#### Left Side\
+**Set/-**: If cruise control is off do nothing. If cruise control is on and if cruise control is enabled then decrease speed, else set to current speed.
+#### Left Side
 **+**: Increase Volume.\
 **-**: Decrease Volume.\
 **Left Arrow**: Same as left arrow on center console.\
 **Right Arrow**: Same as right arrow on center console.\
-**Source**: IDK.\
-**Phone**: IDK.\
-**Phone2**: IDK.\
-**Speaking**: IDK.\
-#### Middle\
-Push the middle of the steering wheel to honk.\
+**Source**: Changes the source.\
+**Phone**: Accepts a call.\
+**Phone2**: Ends/Decline call.\
+**Speaking**: Press to mute/unmute the phone connected.
+#### Middle
+Push the middle of the steering wheel to honk.
 
 ### Dash
-#### Left: Oil?\
-Shows your oil life?\
-#### Middle: Speedometer\
-Shows the speed and the rpms.\
-#### Right: Fuel Gage\
+#### Left: Oil pressure guage
+Shows the oil pressure in your car.
+#### Middle: Speedometer
+Shows the speed and the rpms that your car is currently running at.
+#### Right: Fuel Gage
 Shows you how much fuel you have.
 
 ##  FAQ
