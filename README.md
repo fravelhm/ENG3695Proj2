@@ -33,9 +33,9 @@ Buy, own, or have access to a 2018 Honda CR-V.
 [Dash](#Dash)
 
 ### Starting the Engine
-Step 1: put key into the ignition slot.
-Step 2: turn the key to the third position and hold for a second.
-Step 3: let the key go back into position two.
+Step 1. put key into the ignition slot.
+Step 2. turn the key to the third position and hold for a second.
+Step 3. let the key go back into position two.
 
 #### Center Console
 
