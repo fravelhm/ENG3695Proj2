@@ -38,7 +38,7 @@ Buy, own, or have access to a 2018 Honda CR-V.
 3. Let the key go back into position two.
 
 ### Center Console
-- Top Panel\
+#### Top Panel\
 **Sun/Moon**: Changes brightness setting.\
 **Radio**: Changes The center display to the radio.\
 **Media**: Switches between medias: bluetooth, ipod, and radio.\
@@ -51,7 +51,7 @@ Buy, own, or have access to a 2018 Honda CR-V.
 **List/Slect**: IDK.\
 **Back**: IDK.\
 **Menu**: IDK.\
-- Lower Panel\
+#### Lower Panel\
 **1st**: Circulate air.\
 **2nd**: Bring in new air.\
 **3rd**: Activate front windshield heaters.\
@@ -63,12 +63,12 @@ Buy, own, or have access to a 2018 Honda CR-V.
 **Econ**: Turn on/off fuel efficient thing.\
 
 ### Steering Wheel
-- Right side\
+#### Right side\
 **Cruise**: Turn on/off cruise control.\
 **Cancel**: When cruise control is on, disables/enables cruise control.\
 **Res/+**: If cruise control is off do nothing. If cruise control is on and if cruise control is enabled then increase speed, else reset to last set speed.\
 **Set/-**: If cruise control is off do nothing. If cruise control is on and if cruise control is enabled then decrease speed, else set to current speed.\
-- Left Side\
+#### Left Side\
 **+**: Increase Volume.\
 **-**: Decrease Volume.\
 **Left Arrow**: Same as left arrow on center console.\
@@ -77,15 +77,15 @@ Buy, own, or have access to a 2018 Honda CR-V.
 **Phone**: IDK.\
 **Phone2**: IDK.\
 **Speaking**: IDK.\
-- Middle\
+#### Middle\
 Push the middle of the steering wheel to honk.\
 
 ### Dash
-- Left: Oil?\
+#### Left: Oil?\
 Shows your oil life?\
-- Middle: Speedometer\
+#### Middle: Speedometer\
 Shows the speed and the rpms.\
-- Right: Fuel Gage\
+#### Right: Fuel Gage\
 Shows you how much fuel you have.
 
 ##  FAQ
