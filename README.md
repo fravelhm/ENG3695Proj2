@@ -1,108 +1,23 @@
 # ENG3695Proj2
 
-[Go To ENG3695Proj2 section](#Heading-3)
+[Introduction](# Introduction)
 
-This is a manual of something, I'm not sure what just yet.
-something
-something
-<br />
+## Introduction
 
-something
-something
-something
-something
-something
-something
-something
-something
-something
-something
-something
-something
-something
-something
-something
-something
-something
-something
+## Description
 
----
-**NOTE**
-Hello.
-How are you?
-This is just a minor test
-other words
----
+## Code
 
-# Heading-1
-This is my first part
-something
-something
-something
-something
-something
-something
-something
-something
-something
-something
-something
-something
-something
-something
-something
-something
-something
-something
-something
-something
+## Installation
 
+## Code Example
 
-# Heading-2
-This is the second
-something
-something
-something
-something
-something
-something
-something
-something
-something
-something
-something
-something
-something
-something
-something
-something
-something
-something
-something
-something
+##  FAQ
 
+## Troubleshooting
 
-# Heading-3
-And finally the third
+## Contribution
 
-something
-something
-something
-something
-something
-something
-something
-something
-something
-something
-something
-something
-something
-something
-something
-something
-something
-something
-something
-something
+## License
 
+## Instructions
