@@ -14,7 +14,6 @@
 The 2018 Honda CR-V is on of the top picks for compact SUV rankings and is 5th in the most common car amoungst American's.  This car has quality cabin materials, lots of seating and seating space, great cargo space, great safety score, great handling, and a capable engine.\
 \
 **Features** 
----
 - 5 seats
 - 21-28 mpg in the city
 - 31-34 mpg on highway
