@@ -27,7 +27,8 @@ This document will help you use your 2018 Honda CR-V efficiently and help you di
 1. Buy or own a 2018 Honda CR-V.
 2. Have a valid drivers liscense for the car.
 3. Have a valid registration for the car.
-4. Have the starter key for the car.
+4. Have the starter key for the car.\
+**[Back to Top](#2018-Honda-CR-V-Manual)**
 
 ## Instructions for Use of Car
 **Must read all instructions before use.**
@@ -48,7 +49,8 @@ This document will help you use your 2018 Honda CR-V efficiently and help you di
 
 - [Center Console](#Center-Console)
 - [Steering Wheel](#Steering-Wheel)
-- [Dash](#Dash)
+- [Dash](#Dash)\
+**[Back to Top](#2018-Honda-CR-V-Manual)**
 
 ### Center Console
 #### Top Panel
@@ -74,7 +76,8 @@ This document will help you use your 2018 Honda CR-V efficiently and help you di
 **6th**: Turn AC on/off.\
 **((P))**: Activate parking break.\
 **Brake Hold**: Turns on/off automatic break hold system.\
-**Econ**: Turn on/off fuel efficient mode.
+**Econ**: Turn on/off fuel efficient mode.\
+**[Back to Top](#2018-Honda-CR-V-Manual)**
 
 ### Steering Wheel
 #### Right side
@@ -92,7 +95,8 @@ This document will help you use your 2018 Honda CR-V efficiently and help you di
 **Phone2**: Ends/Decline call.\
 **Speaking**: Press to mute/unmute the phone connected.
 #### Middle
-Push the middle of the steering wheel to honk.
+Push the middle of the steering wheel to honk.\
+**[Back to Top](#2018-Honda-CR-V-Manual)**
 
 ### Dash
 #### Left: Oil pressure guage
@@ -100,23 +104,24 @@ Shows the oil pressure in your car.
 #### Middle: Speedometer
 Shows the speed and the rpms that your car is currently running at.
 #### Right: Fuel Gage
-Shows you how much fuel you have.
+Shows you how much fuel you have.\
+**[Back to Top](#2018-Honda-CR-V-Manual)**
 
 ##  FAQ
 - Does this manual work for any other car?\
 This definetly does not work for any other car.  Some parts may be similar but it would be best to view the right manual for the right car.
 - Does this manual work for a different year Honda CR-V?\
-Maybe, but it would be best to view the right maual for the car as some parts in a newer/older model may be moved around
+Maybe, but it would be best to view the right maual for the car as some parts in a newer/older model may be moved around\
+**[Back to Top](#2018-Honda-CR-V-Manual)**
 
 ## Troubleshooting
 If any problems with CR-V visit you local mechanic or use the contact info below.\
-Friendship Honda of Boone: (828)-264-6006
+Friendship Honda of Boone: (828)-264-6006\
+**[Back to Top](#2018-Honda-CR-V-Manual)**
 
 ## Contribution
 The souce README for this manual is located [here](https://github.com/fravelhm/ENG3695Proj2/blob/main/README.md).\
 The official manual for the 2018 Honda CR-V is located [here](http://techinfo.honda.com/rjanisis/pubs/OM/AH/ATLA1818OM/enu/ATLA1818OM.PDF).\
 You may also contact hmfravel@gmail.com.\
-###[Back to Top](#2018-Honda-CR-V-Manual)
-####[Back to Top](#2018-Honda-CR-V-Manual)
 **[Back to Top](#2018-Honda-CR-V-Manual)**
 
