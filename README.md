@@ -1,9 +1,6 @@
 # 2018 Honda CR-V Manual
 
 ## Table of Contents
-![](Dash.jpg)
-<img src="Dash.jpg" width="100" height="100" />
-<img src="Dash.jpg" data-canonical-src="Dash.jpg" width="200" height="400" />
 - [Introduction](#Introduction)
 - [Description](#Description)
 - [Installation](#Installation)
@@ -58,6 +55,7 @@ This document will help you use your 2018 Honda CR-V efficiently and help you di
 ### Center Console
 **[Back to Top](#2018-Honda-CR-V-Manual)**\
 For both the [Top](#Top-Panel) and [Lower](#Lower-Panel) panel you should just push the button unless otherwise noted.
+<img src="Center Console.jpg" width="300" height="300" />
 #### Top Panel
 **Hazard**: Press to turn hazards on/off.\
 **Sun/Moon**: Changes brightness setting, either day or night mode.\
@@ -84,7 +82,8 @@ For both the [Top](#Top-Panel) and [Lower](#Lower-Panel) panel you should just p
 **Econ**: Turn on/off fuel efficient mode.
 
 ### Steering Wheel
-**[Back to Top](#2018-Honda-CR-V-Manual)**
+**[Back to Top](#2018-Honda-CR-V-Manual)**\
+<img src="Steering Wheel.jpg" width="300" height="300" />
 #### Right side
 **Cruise**: Turn on/off cruise control.\
 **Cancel**: When cruise control is on, disables/enables cruise control.\
@@ -103,7 +102,8 @@ For both the [Top](#Top-Panel) and [Lower](#Lower-Panel) panel you should just p
 Push the middle of the steering wheel to honk.
 
 ### Dash
-**[Back to Top](#2018-Honda-CR-V-Manual)**
+**[Back to Top](#2018-Honda-CR-V-Manual)**\
+<img src="Dash.jpg" width="300" height="300" />
 #### Left: Oil pressure guage
 Shows the oil pressure in your car.
 #### Middle: Speedometer
