@@ -5,7 +5,7 @@
 - [Introduction](#Introduction)
 - [Description](#Description)
 - [Installation](#Installation)
-- [Instructions](#Instructions)
+- [Instructions](#Instructions-for-Use-of-Car)
 - [FAQ](#FAQ)
 - [Troubleshooting](#Troubleshooting)
 - [Contribution](#Contribution)
@@ -24,18 +24,27 @@ The 2018 Honda CR-V is on of the top picks for compact SUV rankings and is 5th i
 This document will help you use your 2018 Honda CR-V efficiently and help you discover any features you wish to, learn what a feature is, and/or show you a feature you never knew it had.
 
 ## Installation
-Buy, own, or have access to a 2018 Honda CR-V.
+1. Buy or own a 2018 Honda CR-V.
+2. Have a valid drivers liscense for the car.
+3. Have a valid registration for the car.
+4. Have the starter key for the car.
 
-## Instructions
-* [Starting the Engine](#Starting-the-Engine)
-* [Center Console](#Center-Console)
-* [Steering Wheel](#Steering-Wheel)
-* [Dash](#Dash)
-
-### Starting the Engine
-1. Put the ignition key into the ignition slot.
-2. Turn the key to the third position and hold for a second.
-3. Let the key go back into position two.
+## Instructions for Use of Car
+**Must read all instructions before use.**
+1. Unlock and step into driver seat of 2018 Honda CR-V.
+2. Put the ignition key into the ignition slot.
+3. Turn the key to the third position and hold for a second.
+4. Let the key go back into position two.
+   - Note: Now the car is running and you can proceed with any number of processes.
+5. Consult the next 3 sections ([Center Console](#Center-Console), [Steering Wheel](#Steering-Wheel), and [Dash](#Dash)) to learn what features you want to use next.
+6. Look at the [Center Console](#Center-Console) for options on how to change the display's settings, the AC, parking break, automatic break hold system, and the Econ mode.
+7. Look at the [Steering Wheel](#Steering-Wheel) for control over the car and the ability to change some of the display settings remotely.
+8. Look at the [Dash](#Dash) in order to see how your car is running.
+9. When finished pressing buttons and turing knobs continue to "9." otherwise go back to "4." to figure out what you want to do next.
+10. Push the gearshift into Park.
+11. Rotate the key counter-clockwise into position 1.
+12. Remove the key from the car.
+13. Leave and lock the 2018 Honda CR-V with the key.
 
 ### Center Console
 #### Top Panel
