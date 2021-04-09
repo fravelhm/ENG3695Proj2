@@ -22,7 +22,7 @@ The 2018 Honda CR-V is on of the top picks for compact SUV rankings and is 5th i
 
 ## Description
 This document will help you use your 2018 Honda CR-V efficiently and help you discover any features you wish to, learn what a feature is, and/or show you a feature you never knew it had.\
-<div style="text-align: right"> your-text-here </div>
+<div style="text-align: right"> your-text-here </div>  
 ## Installation
 1. Buy or own a 2018 Honda CR-V.
 2. Have a valid drivers liscense for the car.
