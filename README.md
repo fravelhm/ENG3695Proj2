@@ -2,7 +2,8 @@
 
 ## Table of Contents
 ![](Dash.jpg)
-![](Dash.jpg){ width=50% }
+![](Dash.jpg | width = 100)
+![](Dash.jpg | width = 50)
 - [Introduction](#Introduction)
 - [Description](#Description)
 - [Installation](#Installation)
