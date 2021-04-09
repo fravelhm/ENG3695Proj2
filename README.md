@@ -21,7 +21,7 @@ The 2018 Honda CR-V is on of the top picks for compact SUV rankings and is 5th i
 - 184-190 Horsepower
 
 ## Description
-**[Back to Top](#2018-Honda-CR-V-Manual)**
+**[Back to Top](#2018-Honda-CR-V-Manual)**\
 This document will help you use your 2018 Honda CR-V efficiently and help you discover any features you wish to, learn what a feature is, and/or show you a feature you never knew it had.\
 
 ## Installation
@@ -32,7 +32,7 @@ This document will help you use your 2018 Honda CR-V efficiently and help you di
 4. Have the starter key for the car.
 
 ## Instructions for Use of Car
-**[Back to Top](#2018-Honda-CR-V-Manual)**
+**[Back to Top](#2018-Honda-CR-V-Manual)**\
 **Must read all instructions before use.**
 1. Unlock and step into driver seat of 2018 Honda CR-V.
 2. Put the ignition key into the ignition slot.
@@ -54,7 +54,8 @@ This document will help you use your 2018 Honda CR-V efficiently and help you di
 - [Dash](#Dash)
 
 ### Center Console
-**[Back to Top](#2018-Honda-CR-V-Manual)**
+**[Back to Top](#2018-Honda-CR-V-Manual)**\
+For both the [Top](#Top-Panel) and [Lower](#Lower-Panel) panel you should just push the button unless otherwise noted.
 #### Top Panel
 **Hazard**: Press to turn hazards on/off.\
 **Sun/Moon**: Changes brightness setting, either day or night mode.\
@@ -116,7 +117,7 @@ This definetly does not work for any other car.  Some parts may be similar but i
 Maybe, but it would be best to view the right maual for the car as some parts in a newer/older model may be moved around.
 
 ## Troubleshooting
-**[Back to Top](#2018-Honda-CR-V-Manual)**
+**[Back to Top](#2018-Honda-CR-V-Manual)**\
 If any problems with CR-V visit you local mechanic or use the contact info below.\
 Friendship Honda of Boone: (828)-264-6006
 
