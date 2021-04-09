@@ -116,4 +116,7 @@ Friendship Honda of Boone: (828)-264-6006
 The souce README for this manual is located [here](https://github.com/fravelhm/ENG3695Proj2/blob/main/README.md).\
 The official manual for the 2018 Honda CR-V is located [here](http://techinfo.honda.com/rjanisis/pubs/OM/AH/ATLA1818OM/enu/ATLA1818OM.PDF).\
 You may also contact hmfravel@gmail.com.\
-[Back to Top](#2018-Honda-CR-V-Manual)
+###[Back to Top](#2018-Honda-CR-V-Manual)
+####[Back to Top](#2018-Honda-CR-V-Manual)
+**[Back to Top](#2018-Honda-CR-V-Manual)**
+
