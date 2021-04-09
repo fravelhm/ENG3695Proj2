@@ -1,8 +1,8 @@
 # 2018 Honda CR-V Manual
 
 ## Table of Contents
-![](Dash.jpg =250x)
 ![](Dash.jpg)
+![](Dash.jpg){ width=50% }
 - [Introduction](#Introduction)
 - [Description](#Description)
 - [Installation](#Installation)
