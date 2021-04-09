@@ -22,7 +22,7 @@ The 2018 Honda CR-V is on of the top picks for compact SUV rankings and is 5th i
 
 ## Description
 This document will help you use your 2018 Honda CR-V efficiently and help you discover any features you wish to, learn what a feature is, and/or show you a feature you never knew it had.\
-<div style="text-align: justify"> your-text-here </div>  
+
 ## Installation
 1. Buy or own a 2018 Honda CR-V.
 2. Have a valid drivers liscense for the car.
@@ -115,4 +115,5 @@ Friendship Honda of Boone: (828)-264-6006
 ## Contribution
 The souce README for this manual is located [here](https://github.com/fravelhm/ENG3695Proj2/blob/main/README.md).\
 The official manual for the 2018 Honda CR-V is located [here](http://techinfo.honda.com/rjanisis/pubs/OM/AH/ATLA1818OM/enu/ATLA1818OM.PDF).\
-You may also contact hmfravel@gmail.com.
+You may also contact hmfravel@gmail.com.\
+[Back to Top](#2018-Honda-CR-V-Manual)
