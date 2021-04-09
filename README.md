@@ -54,61 +54,64 @@ This document will help you use your 2018 Honda CR-V efficiently and help you di
 
 ### Center Console
 **[Back to Top](#2018-Honda-CR-V-Manual)**\
-For both the [Top](#Top-Panel) and [Lower](#Lower-Panel) panel you should just push the button unless otherwise noted.\
+For all three of the [Top](#Top-Panel), [Middle](#Middle-Panel), and [Lower](#Lower-Panel) panel you should just push the button unless otherwise noted.\
 <img src="Center Console.jpg" width="700" height="750" />
 #### Top Panel
-**Hazard**: Press to turn hazards on/off.\
-**Sun/Moon**: Changes brightness setting, either day or night mode.\
-**Radio**: Changes The center display to the radio.\
-**Media**: Switches between medias: bluetooth, ipod, and radio.\
-**Vol/Power knob**: Rotate clockwise/counter-clockwise to increase/decrease volume repectively.  Push to turn the center display on/off.\
-**Left Arrow**: Changes radio station or changes song on bluetooth or ipod device.\
-**Right Arrow**: Changes radio station or changes song on bluetooth or ipod device.\
-**AC Knob**: Rotate knob clockwise/counter-clockwise to decrease/increase AC temperature.  Push to change AC to auto mode.\
-**Phone**: Accepts/declines phone call.\
-**Music Note**: Press to select the sound setting mode.\
-**List/Slect**: Rotate clockwise/counter-clockwise to scroll through choices.  Push to set your selection\
-**Back**: Used on menus to go back.\
-**Menu**: Opens the menu where you can change settings or the time on your clock.
+**T1**: Changes brightness setting, either day or night mode.\
+**T2**: Changes The center display to the radio.\
+**T3**: Switches between medias: bluetooth, ipod, and radio.\
+**T4**: Rotate clockwise/counter-clockwise to increase/decrease volume repectively.  Push to turn the center display on/off.\
+**T5**: Changes radio station or changes song on bluetooth or ipod device.\
+**T6**: Changes radio station or changes song on bluetooth or ipod device.\
+**T7**: Accepts/declines phone call.\
+**T8**: Press to select the sound setting mode.\
+**T9**: Rotate clockwise/counter-clockwise to scroll through choices.  Push to set your selection\
+**T11**: Used on menus to go back.\
+**T10**: Opens the menu where you can change settings or the time on your clock.
+#### Middle Panel
+**M1**: Rotate knob clockwise/counter-clockwise to decrease/increase AC temperature.  Push to change AC to auto mode.\
+**M2**: Circulate air.\
+**M3**: Bring in new air.\
+**M4**: Activate front windshield heaters.\
+**M5**: Activate rear windshield heaters.\
+**M6**: Change where the air is coming out.\
+**M7**: Turn AC on/off.
 #### Lower Panel
-**1st**: Circulate air.\
-**2nd**: Bring in new air.\
-**3rd**: Activate front windshield heaters.\
-**4th**: Activate rear windshield heaters.\
-**5th**: Change where the air is coming out.\
-**6th**: Turn AC on/off.\
-**((P))**: Activate parking break.\
-**Brake Hold**: Turns on/off automatic break hold system.\
-**Econ**: Turn on/off fuel efficient mode.
+**B1**: Activate parking break.\
+**B2**: Turns on/off automatic break hold system.\
+**B3**: Gearshift: Push button on left size and move up and down to switch gears.\
+**B4**: Turn on/off fuel efficient mode.
 
 ### Steering Wheel
 **[Back to Top](#2018-Honda-CR-V-Manual)**\
 <img src="Steering Wheel.jpg" width="650" height="650" />
 #### Right side
-**Cruise**: Turn on/off cruise control.\
-**Cancel**: When cruise control is on, disables/enables cruise control.\
-**Res/+**: If cruise control is off do nothing. If cruise control is on and if cruise control is enabled then increase speed, else reset to last set speed.\
-**Set/-**: If cruise control is off do nothing. If cruise control is on and if cruise control is enabled then decrease speed, else set to current speed.
+**R1**: If cruise control is off do nothing. If cruise control is on and if cruise control is enabled then increase speed, else reset to last set speed.\
+**R2**: When cruise control is on, disables/enables cruise control.\
+**R3**: If cruise control is off do nothing. If cruise control is on and if cruise control is enabled then decrease speed, else set to current speed.\
+**R4**: Turn on/off cruise control.
 #### Left Side
-**+**: Increase Volume.\
-**-**: Decrease Volume.\
-**Left Arrow**: Same as left arrow on center console.\
-**Right Arrow**: Same as right arrow on center console.\
-**Source**: Changes the source.\
-**Phone**: Accepts a call.\
-**Phone2**: Ends/Decline call.\
-**Speaking**: Press to mute/unmute the phone connected.
+**L1**: Decrease Volume.\
+**L2**: Same as left arrow on center console.\
+**L3**: Accepts a call.\
+**L4**: Increase Volume.\
+**L5**: Changes the source.\
+**L6**: Same as right arrow on center console.\
+**L7**: Ends/Decline call.\
+**L8**: Press to mute/unmute the phone connected.
 #### Middle
 Push the middle of the steering wheel to honk.
 
 ### Dash
 **[Back to Top](#2018-Honda-CR-V-Manual)**\
 <img src="Dash.jpg" width="600" height="600" />
-#### Left: Oil pressure guage
+#### D1: Oil pressure guage
 Shows the oil pressure in your car.
-#### Middle: Speedometer
-Shows the speed and the rpms that your car is currently running at.
-#### Right: Fuel Gage
+#### D2: Rpm Dectector
+Shows the rpm's (rotations per minute) that you car's engine is currently running at.
+#### D3: Speedometer
+Shows the speed that your car is currently running at.
+#### D4: Fuel Gage
 Shows you how much fuel you have.
 
 ##  FAQ
