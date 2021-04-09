@@ -123,12 +123,12 @@ Maybe, but it would be best to view the right maual for the car as some parts in
 
 ## Troubleshooting
 **[Back to Top](#2018-Honda-CR-V-Manual)**\
-If any problems with CR-V visit you local mechanic or use the contact info below.\
+If there are any problems with your 2018 Honda CR-V, please visit your local mechanic or use the contact info below.\
 Friendship Honda of Boone: (828)-264-6006
 
 ## Contribution
 The souce README for this manual is located [here](https://github.com/fravelhm/ENG3695Proj2/blob/main/README.md).\
 The official manual for the 2018 Honda CR-V is located [here](http://techinfo.honda.com/rjanisis/pubs/OM/AH/ATLA1818OM/enu/ATLA1818OM.PDF).\
-You may also contact hmfravel@gmail.com.\
+You may also contact hmfravel@gmail.com with any further questions.\
 **[Back to Top](#2018-Honda-CR-V-Manual)**
 
