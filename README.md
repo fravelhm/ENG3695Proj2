@@ -66,8 +66,8 @@ For all three of the [Top](#Top-Panel), [Middle](#Middle-Panel), and [Lower](#Lo
 **T7**: Accepts/declines phone call.\
 **T8**: Press to select the sound setting mode.\
 **T9**: Rotate clockwise/counter-clockwise to scroll through choices.  Push to set your selection\
-**T11**: Used on menus to go back.\
-**T10**: Opens the menu where you can change settings or the time on your clock.
+**T10**: Opens the menu where you can change settings or the time on your clock.\
+**T11**: Used on menus to go back.
 #### Middle Panel
 **M1**: Rotate knob clockwise/counter-clockwise to decrease/increase AC temperature.  Push to change AC to auto mode.\
 **M2**: Circulate air.\
