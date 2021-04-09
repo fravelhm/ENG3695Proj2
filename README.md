@@ -21,8 +21,8 @@ The 2018 Honda CR-V is on of the top picks for compact SUV rankings and is 5th i
 - 184-190 Horsepower
 
 ## Description
-This document will help you use your 2018 Honda CR-V efficiently and help you discover any features you wish to, learn what a feature is, and/or show you a feature you never knew it had.
-
+This document will help you use your 2018 Honda CR-V efficiently and help you discover any features you wish to, learn what a feature is, and/or show you a feature you never knew it had.\
+<div style="text-align: right"> your-text-here </div>
 ## Installation
 1. Buy or own a 2018 Honda CR-V.
 2. Have a valid drivers liscense for the car.
@@ -45,6 +45,10 @@ This document will help you use your 2018 Honda CR-V efficiently and help you di
 11. Rotate the key counter-clockwise into position 1.
 12. Remove the key from the car.
 13. Leave and lock the 2018 Honda CR-V with the key.
+
+- [Center Console](#Center-Console)
+- [Steering Wheel](#Steering-Wheel)
+- [Dash](#Dash)
 
 ### Center Console
 #### Top Panel
