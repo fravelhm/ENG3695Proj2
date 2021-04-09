@@ -1,5 +1,6 @@
 # 2018 Honda CR-V Manual
-<img src="Honda2018crv.jpg" width="800" height="600" />
+<img src="Honda2018crv.jpg" width="800" height="600" />\
+
 ## Table of Contents
 - [Introduction](#Introduction)
 - [Description](#Description)
