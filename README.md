@@ -2,8 +2,8 @@
 
 ## Table of Contents
 ![](Dash.jpg)
-![](Dash.jpg | width = 100)
-![](Dash.jpg | width = 50)
+<img src="Dash.jpg" width="100" height="100" />
+<img src="Dash.jpg" data-canonical-src="Dash.jpg" width="200" height="400" />
 - [Introduction](#Introduction)
 - [Description](#Description)
 - [Installation](#Installation)
