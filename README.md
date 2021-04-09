@@ -21,16 +21,18 @@ The 2018 Honda CR-V is on of the top picks for compact SUV rankings and is 5th i
 - 184-190 Horsepower
 
 ## Description
+**[Back to Top](#2018-Honda-CR-V-Manual)**
 This document will help you use your 2018 Honda CR-V efficiently and help you discover any features you wish to, learn what a feature is, and/or show you a feature you never knew it had.\
 
 ## Installation
+**[Back to Top](#2018-Honda-CR-V-Manual)**
 1. Buy or own a 2018 Honda CR-V.
 2. Have a valid drivers liscense for the car.
 3. Have a valid registration for the car.
-4. Have the starter key for the car.\
-**[Back to Top](#2018-Honda-CR-V-Manual)**
+4. Have the starter key for the car.
 
 ## Instructions for Use of Car
+**[Back to Top](#2018-Honda-CR-V-Manual)**
 **Must read all instructions before use.**
 1. Unlock and step into driver seat of 2018 Honda CR-V.
 2. Put the ignition key into the ignition slot.
@@ -49,10 +51,10 @@ This document will help you use your 2018 Honda CR-V efficiently and help you di
 
 - [Center Console](#Center-Console)
 - [Steering Wheel](#Steering-Wheel)
-- [Dash](#Dash)\
-**[Back to Top](#2018-Honda-CR-V-Manual)**
+- [Dash](#Dash)
 
 ### Center Console
+**[Back to Top](#2018-Honda-CR-V-Manual)**
 #### Top Panel
 **Hazard**: Press to turn hazards on/off.\
 **Sun/Moon**: Changes brightness setting, either day or night mode.\
@@ -76,10 +78,10 @@ This document will help you use your 2018 Honda CR-V efficiently and help you di
 **6th**: Turn AC on/off.\
 **((P))**: Activate parking break.\
 **Brake Hold**: Turns on/off automatic break hold system.\
-**Econ**: Turn on/off fuel efficient mode.\
-**[Back to Top](#2018-Honda-CR-V-Manual)**
+**Econ**: Turn on/off fuel efficient mode.
 
 ### Steering Wheel
+**[Back to Top](#2018-Honda-CR-V-Manual)**
 #### Right side
 **Cruise**: Turn on/off cruise control.\
 **Cancel**: When cruise control is on, disables/enables cruise control.\
@@ -95,29 +97,28 @@ This document will help you use your 2018 Honda CR-V efficiently and help you di
 **Phone2**: Ends/Decline call.\
 **Speaking**: Press to mute/unmute the phone connected.
 #### Middle
-Push the middle of the steering wheel to honk.\
-**[Back to Top](#2018-Honda-CR-V-Manual)**
+Push the middle of the steering wheel to honk.
 
 ### Dash
+**[Back to Top](#2018-Honda-CR-V-Manual)**
 #### Left: Oil pressure guage
 Shows the oil pressure in your car.
 #### Middle: Speedometer
 Shows the speed and the rpms that your car is currently running at.
 #### Right: Fuel Gage
-Shows you how much fuel you have.\
-**[Back to Top](#2018-Honda-CR-V-Manual)**
+Shows you how much fuel you have.
 
 ##  FAQ
+**[Back to Top](#2018-Honda-CR-V-Manual)**
 - Does this manual work for any other car?\
 This definetly does not work for any other car.  Some parts may be similar but it would be best to view the right manual for the right car.
 - Does this manual work for a different year Honda CR-V?\
-Maybe, but it would be best to view the right maual for the car as some parts in a newer/older model may be moved around\
-**[Back to Top](#2018-Honda-CR-V-Manual)**
+Maybe, but it would be best to view the right maual for the car as some parts in a newer/older model may be moved around.
 
 ## Troubleshooting
-If any problems with CR-V visit you local mechanic or use the contact info below.\
-Friendship Honda of Boone: (828)-264-6006\
 **[Back to Top](#2018-Honda-CR-V-Manual)**
+If any problems with CR-V visit you local mechanic or use the contact info below.\
+Friendship Honda of Boone: (828)-264-6006
 
 ## Contribution
 The souce README for this manual is located [here](https://github.com/fravelhm/ENG3695Proj2/blob/main/README.md).\
