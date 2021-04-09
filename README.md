@@ -55,7 +55,7 @@ This document will help you use your 2018 Honda CR-V efficiently and help you di
 ### Center Console
 **[Back to Top](#2018-Honda-CR-V-Manual)**\
 For both the [Top](#Top-Panel) and [Lower](#Lower-Panel) panel you should just push the button unless otherwise noted.\
-<img src="Center Console.jpg" width="800" height="800" />
+<img src="Center Console.jpg" width="700" height="750" />
 #### Top Panel
 **Hazard**: Press to turn hazards on/off.\
 **Sun/Moon**: Changes brightness setting, either day or night mode.\
@@ -83,7 +83,7 @@ For both the [Top](#Top-Panel) and [Lower](#Lower-Panel) panel you should just p
 
 ### Steering Wheel
 **[Back to Top](#2018-Honda-CR-V-Manual)**\
-<img src="Steering Wheel.jpg" width="800" height="800" />
+<img src="Steering Wheel.jpg" width="650" height="650" />
 #### Right side
 **Cruise**: Turn on/off cruise control.\
 **Cancel**: When cruise control is on, disables/enables cruise control.\
